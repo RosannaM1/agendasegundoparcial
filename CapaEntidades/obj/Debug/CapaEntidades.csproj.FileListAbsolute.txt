@@ -1,0 +1,12 @@
+C:\Users\matan\Desktop\Mantenimiento_Productos\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\matan\Desktop\Mantenimiento_Productos\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\matan\Desktop\Mantenimiento_Productos\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\matan\Desktop\Mantenimiento_Productos\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\matan\Desktop\Mantenimiento_Productos\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\matan\Desktop\Mantenimiento_Productos\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\laros\Desktop\2daParteProyectoMantenimientoProductos-main\2daParteProyectoMantenimientoProductos-main\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\laros\Desktop\2daParteProyectoMantenimientoProductos-main\2daParteProyectoMantenimientoProductos-main\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\laros\Desktop\2daParteProyectoMantenimientoProductos-main\2daParteProyectoMantenimientoProductos-main\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\laros\Desktop\2daParteProyectoMantenimientoProductos-main\2daParteProyectoMantenimientoProductos-main\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\laros\Desktop\2daParteProyectoMantenimientoProductos-main\2daParteProyectoMantenimientoProductos-main\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\laros\Desktop\2daParteProyectoMantenimientoProductos-main\2daParteProyectoMantenimientoProductos-main\CapaEntidades\obj\Debug\CapaEntidades.pdb
